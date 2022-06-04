@@ -6,77 +6,77 @@ data:extend(
 			type = "bool-setting",
 			name = "dectorio-landscaping",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-a"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-waterfill",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-b"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-decoratives",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-c"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-lawnmower",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-ca"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-wood",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-d"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-gravel",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-e"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-concrete",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-f"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-painted-concrete",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-g"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-walls",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-h"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-signals",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "a-i"
 		},
 		{
 			type = "bool-setting",
 			name = "dectorio-item-group",
 			setting_type = "startup",
-			default_value = true,
+			default_value = false,
 			order = "b-a"
 		},
 		{
